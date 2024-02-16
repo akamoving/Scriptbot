@@ -1,0 +1,2 @@
+# Scriptbot
+Ready!
